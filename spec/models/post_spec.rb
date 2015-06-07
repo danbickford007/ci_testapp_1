@@ -6,4 +6,8 @@ RSpec.describe Post, type: :model do
     expect(true).to eq(true)
   end
   
+   it 'does something else' do
+    expect(false).to eq(false)
+  end
+  
 end
