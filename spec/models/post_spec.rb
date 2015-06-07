@@ -7,7 +7,8 @@ RSpec.describe Post, type: :model do
   end
   
    it 'does something else' do
-    expect(false).to eq(false)
+    #break it and see if it still reports
+    expect(false).to eq(true)
   end
   
 end
