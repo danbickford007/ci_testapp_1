@@ -5,7 +5,7 @@ application up and running.
 
 
 
-
+Test
 
 
 [![Build Status](http://45.33.69.237:3000/assets/success.png)](http://travis-ci.org/danbickford007/industrial_girl?branch=master)
