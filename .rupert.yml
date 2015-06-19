@@ -1,0 +1,2 @@
+rupert:
+  command: 'rspec spec'
