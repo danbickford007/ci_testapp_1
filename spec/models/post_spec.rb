@@ -7,8 +7,6 @@ RSpec.describe Post, type: :model do
   end
   
    it 'does something else' do
-    #cause a syntax error
-    some cool syntax error here
     expect(false).to eq(true)
   end
   
